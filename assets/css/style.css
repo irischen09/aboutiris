@@ -3,11 +3,11 @@ body {
     color: #252436; 
 }
 .masthead {
-    background-color: #F2DADF;
+    background-color: #F2DADF !important;
     color: #252436;
 }
 
 footer {
-    background-color: #F2DADF;
+    background-color: #F2DADF !important;
     color: #252436;
 }
