@@ -2,22 +2,3 @@ body {
     background-color: #F2DADF; 
     color: #252436; 
 }
-.masthead {
-    background-color: #F2DADF;
-    color: #252436;
-}
-
-footer {
-    background-color: #F2DADF;
-    color: #252436;
-}
-
-.masthead, .masthead .container {
-    background-color: #F2DADF !important;
-    color: #252436;
-}
-
-footer, footer .footer-container {
-    background-color: #F2DADF !important;
-    color: #252436;
-}
