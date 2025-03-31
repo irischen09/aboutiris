@@ -1,6 +1,6 @@
 ---
 title: "Copywriting"
-excerpt: "These are my Public Relations and Advertising copywriting works. (๑˃̵ᴗ˂̵)ﻭ✧ <br/><img src='/images/500x300.png'>"
+excerpt: "These are my Public Relations and Advertising copywriting works. (๑˃̵ᴗ˂̵)ﻭ✧ "
 collection: portfolio
 ---
 
