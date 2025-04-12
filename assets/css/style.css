@@ -2,3 +2,17 @@ body {
     background-color: #F2DADF; 
     color: #252436; 
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #4a5759;
+}
+
+a {
+  color: #b0c4b1;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4a5759;
+  text-decoration: underline;
+}
