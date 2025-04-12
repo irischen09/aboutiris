@@ -1,5 +1,5 @@
 ---
-title: "Videos"
+title: "Video"
 excerpt: "These are my Public Relations and Advertising copywriting works. (๑˃̵ᴗ˂̵)ﻭ✧ <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
