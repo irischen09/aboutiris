@@ -28,6 +28,6 @@ collection: portfolio
 
 <p align="center">
   <img src="images/5.JPG" width="30%" />
-  <img src="images/13.JPG" width="30%" />
+  <img src="images/13.jpg" width="30%" />
   <img src="images/6.JPG" width="30%" />
 </p>
