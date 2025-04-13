@@ -3,6 +3,7 @@ title: "Game"
 excerpt: ""
 collection: portfolio
 ---
+Here are my game design works!
 
 <h2>Pineapple Beer (Ren'Py) </h2>
 
