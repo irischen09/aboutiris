@@ -7,23 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+So glad you’re here on my little corner of the internet!
+Snacks and drinks are on the table—feel free to grab whatever you like~ 🍰🍮🍬🍪🧋☕🧃🍵✨
 
 Personal Description
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi! I'm Iris.
+I’m a creator still in the process of learning. I’m passionate about creation,whether it’s making games, photography, or filming videos. I feel that these mediums allow me to communicate with my audience. They help me express things that I can’t put into words, whether directly or subtly. Although I don’t have advanced programming skills or professional art training, the possibilities of creative expression have never shut me out. I don’t seek complexity or extravagance in my work. My work lives in the details: a single line of dialogue, a color that lingers, a silent pause between choices. I believe that emotion doesn’t require complexity—it only needs sincerity. In a world of overwhelming media, I hope to offer moments of quiet connection.
+If my work can bring someone a flutter of light-heartedness, a touch of warmth, or inspire them to see something in a new way, then its purpose has already been fulfilled.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Me as a Maker-Scholar
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+When it comes to creation, especially in the realm of interactive storytelling, my minifestos are:
+I don’t really think of media as neutral tools, they’ve got personality. Sometimes they’re a bit pushy, telling us how to tell stories, who to tell them to, even what we’re “supposed” to say. But I don’t like being told what kind of storyteller I have to be. Compared to transparent windows, media are more like doors. They open onto some possibilities, but quietly shut others out. When I create, I try not to let media formats or inherited rules dictate what or how I’m “supposed” to say. Constraints can be generative, yes, but I’m always wondering: Is there another way in? Another voice missing? A story that doesn’t fit the default mold?
+I don’t make things for algorithms. Algorithms like things that are smooth, clear, and easy to categorize. I’m drawn to the uncertain, the fragmented, the moments that don’t quite resolve. I don’t believe every work has to be “finished” in the traditional sense. Unfinished work can still speak, and sometimes it speaks more honestly. It invites me to revisit, reimagine, rewrite, and it’s not out of failure, but out of curiosity.
+For me, making isn’t just a form of expression, it’s also a form of thinking. I still have so many things to figure out. Often, I only realize what I’m trying to say once I’ve started to make it. In the process, I’m talking with materials, arguing with forms, and constantly negotiating with myself. It’s rarely clean, but it’s always real. Those detours, dead ends, and improvised shifts—they’re not obstacles, they are the work. And through those moments, I’m slowly shaping not just projects, but also a way of researching, questioning, and being.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml]
+
