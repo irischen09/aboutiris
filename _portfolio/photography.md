@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <p align="center">
-  <img src="images/7.JPG" width="30%" />
+  <img src="/aboutiris/images/7.JPG" width="30%" />
   <img src="images/8.JPG" width="30%" />
   <img src="images/4.JPG" width="30%" />
 </p>
