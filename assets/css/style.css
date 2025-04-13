@@ -16,3 +16,11 @@ a:hover {
   color: #a3b18a;
   text-decoration: underline;
 }
+
+.greedy-nav .visible-links {
+  display: flex;
+}
+
+.greedy-nav .right-nav {
+  margin-left: auto;
+}
