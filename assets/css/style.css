@@ -26,3 +26,7 @@ a:hover {
 .greedy-nav .right-nav {
   margin-left: auto;
 }
+
+.greedy-nav button {
+  display: none !important;
+}
