@@ -36,5 +36,5 @@ Happy Birthday!
 </p>
 
 <p>
-👉 <a href="aboutiris/files/where_s_my_birthday_party_.html" download>Click here to download</a>
+👉 <a href="https://github.com/irischen09/aboutiris/releases/download/bitsy/where_s_my_birthday_party_.html" download>Click here to download</a>
 </p>
