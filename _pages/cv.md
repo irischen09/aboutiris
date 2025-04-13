@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * M.A. in Digital Humanities, University of Alberta, 2026 (expected)
