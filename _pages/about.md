@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
 So glad you’re here on my little corner of the internet!
+
 Snacks and drinks are on the table—feel free to grab whatever you like~ 🍰🍮🍬🍪🧋☕🧃🍵✨
 
 Personal Description
