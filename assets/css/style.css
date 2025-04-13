@@ -14,7 +14,7 @@ a {
 
 a:hover {
   color: #a3b18a;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .greedy-nav .visible-links {
