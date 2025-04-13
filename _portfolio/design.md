@@ -40,8 +40,8 @@ Here are my graphic and layout designs!
 Making Process
 <p align="center">
   <img src="/aboutiris/images/design4.png" width="40%" />
-  <img src="/aboutiris/images/design14.jpg" width="25%" />
   <img src="/aboutiris/images/design13.jpg" width="25%" />
+  <img src="/aboutiris/images/design14.jpg" width="25%" />
 </p>
 
 Finished Piece
